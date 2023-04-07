@@ -1,0 +1,19 @@
+li a {
+    display: block;
+    color: rgb(206, 106, 106);
+    text-align: center;
+    padding: 14px 13px;
+    text-decoration: rgb(7, 7, 24);
+  }
+  
+  li a:hover {
+    background-color: rgb(105, 166, 95);
+  }
+  h1 {
+    color: #4a4250;
+    display: flex;
+    justify-content: center;
+  }
+  .navbarr {
+    color: #376058;
+  }
